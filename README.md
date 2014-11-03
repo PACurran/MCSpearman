@@ -6,8 +6,8 @@ A program to compute the Spearman's rank correlation coefficient, including a Mo
 
 Prerequisites:
 
-C compiler (e.g., gcc)
-GNU Scientific Library (GSL) development & library packages
+1. C compiler (e.g., gcc)
+2. GNU Scientific Library (GSL) development & library packages
 
 
 Notes on GNU Scientific Library (GSL): GSL can be downloaded from
