@@ -2,8 +2,7 @@
 # 
 # Requires mcspearman_v#.c, mcspearman.h 
 #
-# Requires the GNU Scientific Library (GSL) development package &
-# library package
+# Requires the GNU Scientific Library (GSL) development & library packages
 
 
 gcc -Wall -o  mcspearman mcspearman_v0.3.c -L/usr/lib -lgsl -lgslcblas -lm
