@@ -1,7 +1,7 @@
 MCSpearman
 ==========
 
-A program to compute the Spearman's rank correlation coefficient, including a Monte Carlo error analysis. Method is detailed at http://arxiv.org/abs/1411.3816. Astrophysics Source Code Library record http://ascl.net/1504.008. 
+A program to compute the Spearman's rank correlation coefficient, including a Monte Carlo error analysis. Method is detailed at http://arxiv.org/abs/1411.3816 and Astrophysics Source Code Library record is at http://ascl.net/1504.008. 
 
 Prerequisites:
 
